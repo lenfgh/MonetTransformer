@@ -15,10 +15,10 @@ The training data come from the Kaggle Dataset : *gan-getting-started*.
 
 To use this MonetTransformer, you can run 
 
-  git clone git@github.com:lenfgh/MonetTransformer.git
+    git clone git@github.com:lenfgh/MonetTransformer.git
 
 and put the photos you want to transform in the folder, then replace the *filename* in the **MonetPainter.py** and run 
 
-  python MonetPainter.py
+    python MonetPainter.py
 
 Then you can get the transformed photo.
