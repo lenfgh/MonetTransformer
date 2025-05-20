@@ -4,12 +4,6 @@
 
 ---
 
-### Instructions
-
-
-*by Len Fu 3/24/2025*
-
----
 
 ### Instructions
 
